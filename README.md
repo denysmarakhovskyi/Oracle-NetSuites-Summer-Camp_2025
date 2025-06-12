@@ -1,4 +1,4 @@
-# Oracle-NetSuites-Summer-Camp_2025
+# Oracle NetSuite's Summer Camp 2025
 The homework (GitHub repository)
 
 Assignment: Write a program in Java/JavaScript that  prints out the numbers 0 to 100 (without boundaries). 
